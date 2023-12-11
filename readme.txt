@@ -11,4 +11,5 @@ Project members:
 
 Files: 
 1. VGG19_Pipeline.ipynb: Contains EDA, spectrogram and VGG19 pipeline. 
+2. EDA_and_Data_Extraction.ipynb: Contains EDA for json files and conversion of all json files into a single dataframe. 
 
